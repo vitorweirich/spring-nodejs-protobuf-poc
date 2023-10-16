@@ -1,0 +1,7 @@
+Adicionar banco m2 criar um crud simples desde o bff(MS nodejs) até o MS em java
+
+Criar mapper com mapstruct
+
+Testar serializar e protobuf no MS nodejs (pesquisar se isso é viável visto que não suporte oficial para NodeJS)
+
+Talvez implementar uma logica que possa devolver tanto protobuff como JSON com base na request (Header por Exemplo)
